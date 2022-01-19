@@ -31,6 +31,9 @@
         "no-tabs": "off",
         "quotes": ["warn", "single"],
         "semi": ["off", "always"],
-        "react/react-in-jsx-scope": "off"
+        "react/react-in-jsx-scope": "off",
+        "react/jsx-uses-vars": "error",
+        "react/jsx-uses-react": "error",
+        "react/prop-types": "off"
     }
 }
