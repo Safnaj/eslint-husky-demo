@@ -5,7 +5,6 @@ import Home from './pages/Home/Home';
 import Employees from './pages/Employees/Employees';
 
 function App () {
-  // commets
   // console.log('App.js is running');
   return (
 		<div>
