@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import Employee from '../../components/Employee';
 
 function Employees () {
-  // Test
   const [loadData, setLoadData] = useState();
   const [nameList, setNameList] = useState([]);
 
